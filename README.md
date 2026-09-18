@@ -335,6 +335,16 @@ Current limitations include:
 
 ---
 
+## Design Dossier
+
+A full engineering design dossier documenting the development of HomeAir is available below.
+
+It includes the design process, problem definition, project objectives, system architecture, risk analysis, prototype development, component selection, firmware flowchart, application design, hardware implementation, live testing, Alexa integration, limitations, and future improvements.
+
+📄 [View the full HomeAir Design Dossier](docs/HomeAir_Dossier.pdf)
+
+---
+
 ## Team
 
 HomeAir was developed as a **group engineering project**.
