@@ -1,17 +1,23 @@
-<div align="center">
+<p align="center">
+  <img src="assets/homeair-logo.png" alt="HomeAir Logo" width="180">
+</p>
 
-# HomeAir
-### Smart Indoor Air Quality Monitoring System
+<h1 align="center">HomeAir</h1>
 
-**ESP32-based IoT air-quality monitor with real-time sensing, Firebase cloud logging, a live dashboard, local alerts, and Amazon Alexa integration.**
+<p align="center">
+  Smart Indoor Air Quality Monitoring System
+</p>
 
-![ESP32](https://img.shields.io/badge/ESP32-Embedded%20IoT-000000?logo=espressif&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-Realtime%20Database-FFCA28?logo=firebase&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-Dashboard-02569B?logo=flutter&logoColor=white)
-![Alexa](https://img.shields.io/badge/Amazon%20Alexa-Voice%20Alerts-00CAFF?logo=amazonalexa&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-Firmware-00599C?logo=cplusplus&logoColor=white)
+<p align="center">
+  IoT-based air quality monitoring using ESP32, MQ-135, SGP30, OLED display, Firebase, and Alexa integration.
+</p>
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-ESP32-blue" />
+  <img src="https://img.shields.io/badge/Database-Firebase-orange" />
+  <img src="https://img.shields.io/badge/App-Flutter-46C3F1" />
+  <img src="https://img.shields.io/badge/Voice-Alexa-00CAFF" />
+</p>
 
 ---
 
