@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/homeair-logo.png" alt="HomeAir Logo" width="260">
+  <img src="assets/homeair-logo.png" alt="HomeAir Logo" width="320">
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 <br>
 
 <p align="center">
-  <img src="assets/final-device.jpg" alt="HomeAir Final Prototype" width="720">
+  <img src="assets/final-device.jpg" alt="HomeAir Final Prototype" width="950">
 </p>
 
 ---
