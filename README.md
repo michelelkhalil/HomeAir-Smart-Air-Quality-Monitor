@@ -331,7 +331,7 @@ HomeAir was developed as a **group engineering project**.
 
 | Team Member | Main Contribution |
 |---|---|
-| **Michel El Khalil** | Dossier design, system documentation, integration support |
+| **Michel El Khalil** | Circuit development, hardware design, Alexa integration, system testing & integration |
 | **Khalid Dallol** | Circuit development, app, backend, dashboard, Alexa |
 | **Piero Garcia** | Hardware design, sensors, circuit development, prototype |
 | **Jonathan Pedro** | Video production, firmware support, testing, integration |
